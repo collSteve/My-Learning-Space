@@ -1,5 +1,7 @@
 #home-header {
   margin: 0vh 0 10vh 0;
+  background-image: url("https://media.istockphoto.com/photos/particle-string-idea-picture-id1047395910?k=6&m=1047395910&s=612x612&w=0&h=xiEVIV6OzMcRJq1WoWQ92KA-i3vvPVLtyPcfq3OzLDA=");
+  background-size: cover;
 }
 
 .page-section {
