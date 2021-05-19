@@ -6,4 +6,5 @@
 
 .page-section {
   margin-bottom: 12vh;
+  overflow: auto;
 }
