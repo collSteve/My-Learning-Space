@@ -1,3 +1,3 @@
-# development-log
+# My Learning Space
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/development-log)
+A website storing contents for my learning as well as some of my projects 
